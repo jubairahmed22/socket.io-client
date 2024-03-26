@@ -27,7 +27,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1 className="h1">sender:{message}</h1>
-        <h1 className="h1">Receive: {getMessage}</h1>
+        <h1 className="h1">Receiver: {getMessage}</h1>
       </div>
 
       <input
