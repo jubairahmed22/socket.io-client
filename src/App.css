@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  display:flex;
+  margin: 30px;
+  color: red;
+}
+
+
+.h1{
+  margin: 30px;
+}
+
