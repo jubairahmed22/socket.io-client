@@ -35,7 +35,7 @@ function App() {
         type="text"
         placeholder="ROom...."
       />
-      <button onClick={hanldeRoom}>Join room</button>
+      <button onClick={hanldeRoom}>Join </button>
       <br />
       <input
         onBlur={(e) => setMessage(e.target.value)}
